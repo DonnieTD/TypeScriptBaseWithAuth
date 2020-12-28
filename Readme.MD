@@ -1,26 +1,29 @@
 # QUERIES AND MUTATIONS
 
-## mutation {
+### mutation {
 
-## register(login: "john2", password: "john2")
+### register(login: "john2", password: "john2")
 
-## }
+### }
 
-## query {
+### query {
 
-## current{
+### current{
 
-## id,
+### id,
 
-## login
+### login
 
-## }
+### }
 
-## }
+### }
 
-## mutation {
+### mutation {
 
-## login(login: "john2", password: "john2")
+### login(login: "john2", password: "john2")
 
-## }
+### }
+
+# TypeScriptBaseWithAuth
+
 # TypeScriptBaseWithAuth
